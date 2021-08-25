@@ -1,0 +1,26 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(img/baru.jpg);
+  background-size: cover;
+  height: 520px;
+}
+
+.card {
+  padding-top: 6rem;
+}
+
+h1 {
+  padding-inline-start: 1rem;
+}
+
+p {
+  padding-inline-start: 1rem;
+}
+
+.button {
+  position: relative;
+}
+
+.poto {
+  padding-inline-start: 1rem;
+}
